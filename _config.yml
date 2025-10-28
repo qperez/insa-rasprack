@@ -2,7 +2,8 @@ title: INSA Rasprack
 description: A website dedicated to the INSA Rasprack project.
 theme: just-the-docs
 
-url: https://qperez.github.io/insa-rasprack/
+url: https://qperez.github.io
+baseurl: /insa-rasprack   # correspond au nom de ton repo
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
@@ -11,7 +12,7 @@ aux_links:
 collections:
   docs:
     output: true
-    permalink: /:path/
+    permalink: /:collection/:path/
 
 # Configuration de la navigation
 just_the_docs:
