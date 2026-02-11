@@ -24,8 +24,7 @@ INSA Rasprack includes:
 * A 10-port USB hub
 
 ![img/](assets/img/front_rack.jpg)
-![Front rack]({{ "/assets/img/front_rack.jpg" | relative_url }})
-
+![Front rack](/insa-rasprack/assets/img/front_rack.jpg)
 ### From an idea to a concrete rack
 
 The idea of INSA Rasprack has ermerged when I (Quentin Perez) see many Raspberry Pi cards sleeping in a 
