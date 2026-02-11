@@ -23,8 +23,8 @@ INSA Rasprack includes:
 * A 4-outlet power strip
 * A 10-port USB hub
 
-![img/](assets/img/front_rack.jpg)
 ![Front rack](/insa-rasprack/assets/img/front_rack.jpg)
+
 ### From an idea to a concrete rack
 
 The idea of INSA Rasprack has ermerged when I (Quentin Perez) see many Raspberry Pi cards sleeping in a 
