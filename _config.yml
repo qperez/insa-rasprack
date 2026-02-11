@@ -15,8 +15,8 @@ collections:
     permalink: /:collection/:path/
 
 # Configuration de la navigation
-just_the_docs:
-  collections:
-    docs:
-      name: Documentation
-      nav_exclude: false
+#just_the_docs:
+#  collections:
+#    docs:
+#      name: Documentation
+#      nav_exclude: false

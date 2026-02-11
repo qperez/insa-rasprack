@@ -23,7 +23,7 @@ INSA Rasprack includes:
 * A 4-outlet power strip
 * A 10-port USB hub
 
-![img/](/assets/img/front_rack.jpg)
+![img/](insa-rasprack/assets/img/front_rack.jpg)
 
 ### From an idea to a concrete rack
 
@@ -41,6 +41,29 @@ With the help of François Pasteau, I set out to build the INSA Rasprack.
 * Quentin Perez, Associate Professor of Software Engineering at INSA Rennes, France
 * François Pasteau, Research Engineer (PhD) at INSA Rennes, France
 * Thomas Voisin, 3D printing technician, INSA Rennes, France
+
+### Bill of materials (BOM)
+
+INSA Rasprack is based on the "low-cost" materials
+
+### 3D Models
+
+We have reuse a model of 3D printed rack named "XXX" created by XXXX and available on Printables: [XXX-printables](XXX-printables)
+Models have not been modified in terms of size, only small improvements has been done, we detailled them in section
+[improvements](improvements)
+
+### Building
+
+#### 1) 3D Printing
+
+Thomas Voisin has printed the models presented in section [3D Models](3D Models) on a Prusa XL 3D printer.
+Prusa XL is a "professional" printer but all the models are printable on printers like Creality Ender 3.
+
+The printing time on Prusa XL is around 20 hours. 
+
+#### 2) 
+
+### Improvements
 
 ### Acknowledgment
 
