@@ -23,7 +23,8 @@ INSA Rasprack includes:
 * A 4-outlet power strip
 * A 10-port USB hub
 
-![img/](/assets/img/front_rack.jpg)
+![img/](assets/img/front_rack.jpg)
+![Front rack]({{ "/assets/img/front_rack.jpg" | relative_url }})
 
 ### From an idea to a concrete rack
 
