@@ -61,17 +61,25 @@ INSA Rasprack is based on "low-cost" hardware available easily:
 
 **==> Total hardware VAT include: €564,51**
 
-### 3D Models
+## 3D Models
 
-We have reuse a model of 3D printed rack named "XXX" created by XXXX and available on Printables: [XXX-printables](XXX-printables)
-Models have not been modified in terms of size, only small improvements has been done, we detailled them in section
-[improvements](improvements)
+We have reuse 3D printed models for the rack named "Lab Rax" created by [mkelement](https://makerworld.com/en/@mklements) and available on Makerworld: [Lab Rax 10 inch 5U server rack](https://makerworld.com/en/models/1294480-lab-rax-10-server-rack-5u#profileId-1325352)
+Models have not been modified in terms of size, only small improvements has been done, we detail them in section
+[improvements](#improvements)
+
+The list of the parts needed to be printed are the following:
+ 
+| Quantity | Part Name                             | Filament Type | Link                |
+|----------|---------------------------------------|---------------|---------------------|
+| 4        | 5U Brass Insert Vertical Post.3mf     | PETG          | [Vertical Post]()   |
+| 4        | Horizontal Edge Vented.3mf (or solid) | PETG          | [Horizontal Edge](https://makerworld.com/en/models/1294480-lab-rax-10-server-rack-5u#profileId-1325352) |
+
 
 ### Building
 
 #### 1) 3D Printing
 
-Thomas Voisin has printed the models presented in section [3D Models](3D Models) on a Prusa XL 3D printer.
+Thomas Voisin has printed the models presented in section [3D Models](#3D-models) on a Prusa XL 3D printer.
 Prusa XL is a "professional" printer but all the models are printable on printers like Creality Ender 3.
 
 The printing time on Prusa XL is around 20 hours. 
