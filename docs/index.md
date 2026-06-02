@@ -24,7 +24,7 @@ INSA Rasprack includes:
 * A 10-port USB hub
 
 ![Image of the 10 inches rack printed in 3D with a focus on the top of the rack 
-where 7 raspebry pi card are stacked verically ](/insa-rasprack/assets/img/front_rack.jpg)
+where 7 Raspberry Pi card are stacked vertically](/insa-rasprack/assets/img/front_rack.jpg)
 
 ### From an idea to a concrete rack
 
@@ -81,10 +81,17 @@ The list of the parts needed to be printed are the following:
 
 Thomas Voisin has printed the models presented in section [3D Models](#3D-models) on a Prusa XL 3D printer.
 Prusa XL is a "professional" printer but all the models are printable on printers like Creality Ender 3.
+**The printing time on Prusa XL is around 20 hours.**
 
-The printing time on Prusa XL is around 20 hours. 
+![Image of the Prusa XL printer at INSA Rennes](/insa-rasprack/assets/img/prusa_xl.jpg)
 
-#### 2) 
+#### 2) Assembly
+
+The rack is assembled according to the instructions provided by [mkelement](https://makerworld.com/en/@mklements) available on [The DIY Life website](https://the-diy-life.com/introducing-lab-rax-a-3d-printable-modular-10-rack-system/). 
+
+The o
+
+Here are some our own photos showing some steps of the assembly process:
 
 ### Improvements
 
