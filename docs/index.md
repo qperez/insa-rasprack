@@ -83,7 +83,7 @@ Thomas Voisin has printed the models presented in section [3D Models](#3D-models
 Prusa XL is a "professional" printer but all the models are printable on printers like Creality Ender 3.
 **The printing time on Prusa XL is around 20 hours.**
 
-![Image of the Prusa XL printer at INSA Rennes](/insa-rasprack/assets/img/prusa_xl.jpg)
+![Image of the Prusa XL printer at INSA Rennes](/insa-rasprack/assets/img/prusa_xl.jpg =x500)
 
 #### 2) Assembly
 
